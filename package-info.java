@@ -1,1 +1,1 @@
-package Stringprograms;
+package collection;
